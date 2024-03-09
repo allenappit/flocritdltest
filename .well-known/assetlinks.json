@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.fcs.flocrit",
+      "sha256_cert_fingerprints":
+        ["5A:AE:7B:79:B5:07:63:37:67:39:82:37:B7:9C:EB:C5:08:F2:1F:42:F7:D1:D2:6B:95:80:D8:F5:26:91:8D:9C"]
+    }
+  }
+]
